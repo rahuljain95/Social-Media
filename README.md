@@ -1,9 +1,9 @@
 # Social Media 
 
 ### Output
-```
+
 https://rj-socialmedia.netlify.app
-```
+
 
 ### Setup Instruction
 
